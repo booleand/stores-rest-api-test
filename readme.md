@@ -4,3 +4,5 @@
 This is built with Flask, Flask-RESTful, Flask-JWT, and Flask-SQLAlchemy.
 
 Deployed on Heroku.
+
+Also deployed usign NGINX on hosted webserver
